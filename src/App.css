@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;500;600;700;800;900;1000&display=swap');
+
+body{
+    background-color: #f3f4f4 !important;
+    scroll-behavior: smooth;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Cairo', sans-serif;
+    scroll-behavior: smooth;
+}
+
+a{
+    text-decoration: none !important;
+    color: inherit ;
+}
+
+a:hover{
+    text-decoration: none !important;
+    color: inherit ;
+}
+
+
+ul{
+    list-style: none !important;
+    margin: 0 !important;
+}
+
+
+.hide{
+    display: none !important;
+}
+
+
+::-webkit-scrollbar {
+    width: 5px;
+    border-radius: 25px;
+    height: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 25px;
+
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 25px;
+
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+    border-radius: 25px;
+
+}

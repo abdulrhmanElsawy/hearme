@@ -1,0 +1,169 @@
+.sidenav{
+    width: 20%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    height: 100%;
+    background-color: #355573;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    transition: 0.3s;
+}
+
+
+
+
+
+.sidenav .open-close-nav{
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 15px;
+    margin-bottom: 17px;
+    background-color: transparent;
+    outline: none;
+    border: none;
+    color: #fff;
+    font-size: 39px;
+}
+
+
+
+.sidenav .sidenav-content .user-info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 60px;
+    margin-top: 20px;
+    padding-bottom: 17px;
+    border-bottom: 1px solid #ffffff2b;
+}
+
+.sidenav .sidenav-content .user-info img{
+    width: 110px;
+    height: 110px;
+    object-fit: cover;
+    border-radius: 50%;
+    transition: 0.3s;
+
+}
+
+.sidenav .sidenav-content .user-info h1{
+    color: #fff;
+    font-size: 18px;
+    margin-top: 22px;
+    transition: 0.3s;
+
+}
+
+
+
+.sidenav .sidenav-content .sidenav-elements ul{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 18px;
+    transition: 0.3s;
+
+}
+
+.sidenav .sidenav-content .sidenav-elements ul li{
+    width: 100%;
+    transition: all 0.3s;
+    transition: 0.3s;
+
+    
+}
+
+
+.sidenav .sidenav-content .sidenav-elements ul li:hover{
+    border-left: 4px solid #fff;
+    background-color: #ffffff14;
+    scale: 1.1;
+}
+
+.sidenav .sidenav-content .sidenav-elements ul li.active{
+    border-left: 4px solid #fff;
+    background-color: #ffffff14;
+    scale: 1.1;
+}
+
+
+.sidenav .sidenav-content .sidenav-elements ul li a{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 8px;
+    color: #fff;
+    font-size: 16px;
+    padding: 7px;
+    transition: 0.3s;
+
+}
+
+
+.sidenav .sidenav-content .sidenav-elements ul li button{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 8px;
+    color: #fff;
+    font-size: 16px;
+    padding: 7px;
+    transition: 0.3s;
+    background-color: transparent;
+    outline: none;
+    border: none;
+
+}
+
+.sidenav .sidenav-content .sidenav-elements ul li a i{
+    color: #ffac09;
+    transition: 0.3s;
+
+}
+
+.sidenav .sidenav-content .sidenav-elements ul li button i{
+    color: #ffac09;
+    transition: 0.3s;
+
+}
+
+
+.sidenav.active{
+    width: 5%;
+
+}
+
+.sidenav.active .sidenav-content .user-info img {
+    width: 50px;
+    height: 50px;
+
+}
+.sidenav.active .sidenav-content .user-info h1 {
+    display: none;
+}
+
+.sidenav.active .sidenav-content .sidenav-elements ul {
+    padding: 0;
+}
+
+.sidenav.active .sidenav-content .sidenav-elements ul li a i {
+    font-size: 25px;
+    margin-left: 10px;
+    margin-right: 27px;
+}
+
+.sidenav.active .sidenav-content .sidenav-elements ul li button i {
+    font-size: 25px;
+    margin-left: 10px;
+    margin-right: 27px;
+}
+
+
+
+
