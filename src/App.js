@@ -87,7 +87,7 @@ function App() {
         />
 
         <Route
-          path="/login-user"
+          path="/hearme/login-user"
           element={
             <>
               <Login
@@ -99,7 +99,7 @@ function App() {
         />
 
         <Route
-          path="/signup"
+          path="/hearme/signup"
           element={
             <>
               <Signup />
@@ -108,7 +108,7 @@ function App() {
         />
 
         <Route
-          path="/profile"
+          path="/hearme/profile"
           element={
             <>
               <Profile />
@@ -117,7 +117,7 @@ function App() {
         />
 
         <Route
-          path="/test"
+          path="/hearme/test"
           element={
             <>
               <Test />
@@ -126,7 +126,7 @@ function App() {
         />
 
         <Route
-          path="/online-test-check"
+          path="/hearme/online-test-check"
           element={
             <>
               <Check />
@@ -135,7 +135,7 @@ function App() {
         />
 
         <Route
-          path="/start-test"
+          path="/hearme/start-test"
           element={
             <>
               <StartTest />
