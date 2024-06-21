@@ -143,9 +143,9 @@ function Footer(props){
 
                     <div className="row">
                         <div className="copy-right">
-                            <h3>Copy Right &copy; 2023 HearMe </h3>
+                            <h3>Copy Right &copy; 2024 HearMe </h3>
                             <h4>Made by</h4>
-                            <a href="/">Helwan Team</a>
+                            <a href="/">Shahd Elsawy</a>
                         </div>
                     </div>
                 </div>

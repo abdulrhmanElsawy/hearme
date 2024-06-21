@@ -72,7 +72,7 @@ function App() {
 
       <Routes>
         <Route
-          path="/"
+          path="/hearme"
           element={
             <>
               <Landing />
@@ -142,6 +142,24 @@ function App() {
             </>
           }
         />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
 
         <Route
           path="/admin-login"
