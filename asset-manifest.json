@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/hearme/static/css/main.0bd653be.css",
+    "main.js": "/hearme/static/js/main.db30afa4.js",
+    "static/js/787.51af01df.chunk.js": "/hearme/static/js/787.51af01df.chunk.js",
+    "static/media/staypostive.mp4": "/hearme/static/media/staypostive.ca7562d771e1c350a1c7.mp4",
+    "static/media/landing.png": "/hearme/static/media/landing.3566c326ccb5d72bcc4c.png",
+    "static/media/waves.png": "/hearme/static/media/waves.05ec366d653286feec7d.png",
+    "static/media/testing.mp3": "/hearme/static/media/testing.d3f18fadddcd87272174.mp3",
+    "static/media/about.jpg": "/hearme/static/media/about.a1a02f9fc3d3f59da257.jpg",
+    "static/media/login.jpg": "/hearme/static/media/login.33b0b4f135913bb273cf.jpg",
+    "static/media/signup.jpg": "/hearme/static/media/signup.97de0466d03bdd762cdc.jpg",
+    "static/media/1.jpg": "/hearme/static/media/1.7610aa37387d1f72fd41.jpg",
+    "static/media/step_3.jpg": "/hearme/static/media/step_3.632e49be41815780e506.jpg",
+    "static/media/step_4.jpg": "/hearme/static/media/step_4.bcdb3fb70fd90a7f158c.jpg",
+    "static/media/step_2.jpg": "/hearme/static/media/step_2.f3dce2f312a8868a5c04.jpg",
+    "static/media/step_1.jpg": "/hearme/static/media/step_1.cbe5329e23082c041999.jpg",
+    "static/media/4.jpg": "/hearme/static/media/4.3f72e34bd5b2381fe879.jpg",
+    "static/media/3.jpg": "/hearme/static/media/3.ed03cc5c0b224a4abb96.jpg",
+    "static/media/logo.png": "/hearme/static/media/logo.e2051583c35e34201432.png",
+    "static/media/2.jpg": "/hearme/static/media/2.7c392369ebd588e76e30.jpg",
+    "static/media/slick.svg": "/hearme/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/hearme/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/hearme/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/hearme/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/hearme/index.html",
+    "main.0bd653be.css.map": "/hearme/static/css/main.0bd653be.css.map",
+    "main.db30afa4.js.map": "/hearme/static/js/main.db30afa4.js.map",
+    "787.51af01df.chunk.js.map": "/hearme/static/js/787.51af01df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bd653be.css",
+    "static/js/main.db30afa4.js"
+  ]
+}
