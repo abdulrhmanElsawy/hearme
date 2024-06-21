@@ -116,7 +116,7 @@ function Navbar(props){
 
                             </ul>
 
-                            <RouterLink to="/test">Test now</RouterLink>
+                            <RouterLink to="/hearme/test">Test now</RouterLink>
                         </div>
                     </div>
                 </div>

@@ -121,11 +121,11 @@ function UpperNavbar(props){
                             </div>
                             ) : (
                                 <div className="user-info">
-                                    <Link to="/login-user"> 
+                                    <Link to="/hearme/login-user"> 
                                         <i className="las la-sign-in-alt"></i> Login 
                                     </Link>
 
-                                    <Link to="/signup"><i className="las la-user-plus"></i> Signup </Link>
+                                    <Link to="/hearme/signup"><i className="las la-user-plus"></i> Signup </Link>
                                 </div>
                             )}
                             
