@@ -48,7 +48,7 @@ function Navbar(props){
                 <div className="row">
                     <div className='nav-content'>
                         <div className="logo">
-                            <RouterLink to="/"><img src={Logo} alt="logo"/></RouterLink>
+                            <RouterLink to="/hearme"><img src={Logo} alt="logo"/></RouterLink>
                         </div>
 
                         <button id="open-nav"> <i className="las la-bars"></i> </button>
@@ -57,7 +57,7 @@ function Navbar(props){
 
                             <ul>
                                 <li>
-                                    <RouterLink  to="/">Home</RouterLink>
+                                    <RouterLink  to="/hearme">Home</RouterLink>
                                 </li>
 
                                 <li>
